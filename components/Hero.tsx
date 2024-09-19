@@ -14,8 +14,8 @@ const Hero = () => {
         </div>
         <div className="p-4 w-[380px] sm:w-[600px]">
           <p className="text-slate-500 text-xl text-center">
-            Helping professionals around the world become more productive and
-            organized through an easy-to-use AI powered health record system that will help you
+            Helping professionals around the country become more productive and
+            organized through a powerful, easy-to-use AI powered health record system that will help you
             sort out your everyday.
           </p>
         </div>
